@@ -1,0 +1,13 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAYN4Y6LSRVDERNTHG
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto : false
+
+application:
+  bucket:
+    name: vishal456
